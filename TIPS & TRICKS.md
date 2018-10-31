@@ -35,3 +35,9 @@
 
 ## NOT VCV RELATED (well, more or less...)
 8. HOW TO WRITE IN GITHUB - https://help.github.com/categories/writing-on-github/
+
+
+## SPEECH SYNTH
+1. Software Automatic Mouth, or SAM - https://www.youtube.com/watch?v=Rm4ZCGgzeeU
+2. https://github.com/discordier/sam
+3. https://github.com/s-macke/SAM
