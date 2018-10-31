@@ -59,3 +59,5 @@ make.
 There you go - if you don't get any errors, all of your files should be compiled. 
 
 If you do make dist, you will even get a fancy zip file for your plugin.
+
+Thank you to https://www.reddit.com/user/MazeOfEncryption
