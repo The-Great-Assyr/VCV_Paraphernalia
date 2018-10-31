@@ -9,6 +9,11 @@
 2. plugins are written in c++
 
 
+## SVG FILES
+1. to convert a .png to .svg you have to "**convert to curves**" the raster image!! Or you won't see any picture in the final compiled panel!
+2. don't remove the background in the process!
+3. the higher the values in the "converet to curves" windows, the better the final result **BUT** the heavier the final .svg files
+
 ## SOFTWARES & WEB SITES
 1. CODEPEN VCV FILES CONCATENATOR - https://codepen.io/nebularnoise/full/PRQMpp/
 2. PATCH STORAGE - https://patchstorage.com/platform/vcv-rack/
