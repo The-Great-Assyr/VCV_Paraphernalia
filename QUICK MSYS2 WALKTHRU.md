@@ -15,12 +15,12 @@ The console will tell you to close it and reopen it.
 
 Close it, and when you are asked if you want to end the process, hit yes. 
 
-Once you reopen it, type pacman 
+Once you reopen it, type  
 ```
--Syu again. 
+pacman -Syu  
 ```
 
-Once that finishes, type
+again. Once that finishes, type
 ```
 pacman -S gcc make
 ```
